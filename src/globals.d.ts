@@ -1,1 +1,2 @@
-declare const lineHeight: number | undefined;
+// Ambient module declarations can be added here.
+export {};
